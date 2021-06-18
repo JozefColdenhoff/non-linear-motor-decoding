@@ -4,6 +4,7 @@ Github repository of the thesis: A comparison of non-linear methods for the deco
  - Install Anaconda
  - Fork the repository
  - Use `conda env create -f non-linear-motor-decoding.yml` to create a new environment with the required packages
+ - Use `conda activate non-linear-motor-decoding` to activate the new environment
  - Finally use Jupyter Notebook to open the notebooks
 
 ## The iPython notebooks
