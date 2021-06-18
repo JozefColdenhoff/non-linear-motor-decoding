@@ -2,4 +2,4 @@ Github repository of the thesis: A comparison of non-linear methods for the deco
 
 ## Prerequisites
  - install Anaconda
- - use: conda env create -f environment.yml
+ - use: conda env `create -f environment.yml` to create a new environment with the required packages
